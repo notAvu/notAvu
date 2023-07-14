@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Welcome!<br>I'm Álvaro, a young and enthusiastic software developer, specially passionate about video game development<br><br>🐱‍💻 I'm currently working on 🐱‍💻:<br><br>- MtgCardRecognition: A mobile app made in python that uses ocr to detect a Magic The Gathering Card's name and shows data about that card such as price, format legality, printings...<br>- Rhythm Test: A simple Unity rhythm game with support for several controllers and platforms. <br><br> 📚 What I'm currently learning: 📚<br>- Kivy<br>- OCR<br>- Android with Kotlin<br>- AI basics with python
 
 
